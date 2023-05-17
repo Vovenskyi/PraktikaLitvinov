@@ -1,0 +1,16 @@
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\bin\Debug\net5.0\Msoft.exe
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\bin\Debug\net5.0\Msoft.deps.json
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\bin\Debug\net5.0\Msoft.runtimeconfig.json
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\bin\Debug\net5.0\Msoft.runtimeconfig.dev.json
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\bin\Debug\net5.0\Msoft.dll
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\bin\Debug\net5.0\ref\Msoft.dll
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\bin\Debug\net5.0\Msoft.pdb
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\obj\Debug\net5.0\Msoft.csproj.AssemblyReference.cache
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\obj\Debug\net5.0\Msoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\obj\Debug\net5.0\Msoft.AssemblyInfoInputs.cache
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\obj\Debug\net5.0\Msoft.AssemblyInfo.cs
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\obj\Debug\net5.0\Msoft.csproj.CoreCompileInputs.cache
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\obj\Debug\net5.0\Msoft.dll
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\obj\Debug\net5.0\ref\Msoft.dll
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\obj\Debug\net5.0\Msoft.pdb
+C:\Users\voven\Desktop\Mediasoft\Mediasoft\obj\Debug\net5.0\Msoft.genruntimeconfig.cache
