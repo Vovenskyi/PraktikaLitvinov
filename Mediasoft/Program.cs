@@ -14,7 +14,7 @@ namespace Mediasoft
                 }
                 else if (i % 3 == 0)
                 {
-                    Console.WriteLine("Fizz");
+                    Console.WriteLine("Fizzik");
                 }
                 else if (i % 5 == 0)
                 {

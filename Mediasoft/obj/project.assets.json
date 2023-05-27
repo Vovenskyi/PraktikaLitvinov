@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\voven\\Desktop\\Mediasoft\\Mediasoft\\Msoft.csproj",
+      "projectUniqueName": "C:\\Users\\voven\\Desktop\\Msoft\\Mediasoft\\Msoft.csproj",
       "projectName": "Msoft",
-      "projectPath": "C:\\Users\\voven\\Desktop\\Mediasoft\\Mediasoft\\Msoft.csproj",
+      "projectPath": "C:\\Users\\voven\\Desktop\\Msoft\\Mediasoft\\Msoft.csproj",
       "packagesPath": "C:\\Users\\voven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\voven\\Desktop\\Mediasoft\\Mediasoft\\obj\\",
+      "outputPath": "C:\\Users\\voven\\Desktop\\Msoft\\Mediasoft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
